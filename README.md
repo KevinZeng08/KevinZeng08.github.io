@@ -1,4 +1,4 @@
-# Hi This Kevin Zeng👋
+# Hi This is Kevin Zeng👋
 
 I'm a junior student at Hohai University in Jiangsu, China! 
 I major in computer science. 
